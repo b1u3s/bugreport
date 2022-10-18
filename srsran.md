@@ -24,7 +24,7 @@ int main(int argc, char* argv[])
 }
 ```
 
-Users can control the parameter "argv[1]" without any filter,and execute any commands.For example,you can execute ./admincaps '1;whoami;'.
+Users can control the parameter "argv[1]" without any filter,and execute any commands.For example,you can execute ``` ./admincaps '1;whoami;' ```.
 
 ![image](exe.png)
 
